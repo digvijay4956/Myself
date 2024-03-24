@@ -15,3 +15,9 @@
    - Technologies used: HTML, CSS, JavaScript, PHP
    
    Description: This project involved designing and developing a website for a chemical company to showcase their products and services. The website features a modern and user-friendly interface, allowing visitors to easily navigate through product catalogs, learn about the company's history, and contact them for inquiries.
+
+2. Dzign ([Link to Project](https://iridescent-manatee-38436b.netlify.app/)): A website for a Digital Marketing Company.
+   
+   - Technologies used: HTML, CSS, Javascript, PHP
+   
+   Description: Explore our comprehensive digital marketing hub, featuring a suite of services including SEO, graphic design, and more. With sleek UI, we empower businesses to thrive in the digital landscape.
