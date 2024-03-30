@@ -21,3 +21,8 @@
    - Technologies used: HTML, CSS, Javascript, PHP
    
    Description: Explore our comprehensive digital marketing hub, featuring a suite of services including SEO, graphic design, and more. With sleek UI, we empower businesses to thrive in the digital landscape.
+
+📧 **Contact Me**
+
+Feel free to reach out to me via email at digvijaymane4956@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/digvijay4956cse/). I'm open to discussing new projects, collaborations, or any inquiries you may have. Let's create something amazing together!
+
