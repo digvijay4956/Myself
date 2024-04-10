@@ -10,7 +10,7 @@
 
 🌟 Here's my featured project:
 
-1. Gaurav Chemicals ([Link to Project](https://gauravchemicals.netlify.app/)): A website developed for a chemical company.
+1. Gaurav Chemicals ([Link to Project](https://gauravchemicals.com/)): A website developed for a chemical company.
 
    - Technologies used: HTML, CSS, JavaScript, PHP
    
